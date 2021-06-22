@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Zitti e Buoni"
 Use the left arrow to go back!
